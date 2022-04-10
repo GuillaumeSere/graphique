@@ -1,0 +1,36 @@
+.expenses{
+    color: white;
+
+    &__infos{
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 1rem;
+    }
+
+    .expenses__container{
+            display: flex;
+            justify-content: space-between;
+
+        .expense{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 0.3rem;
+
+            img{
+                height: 4rem;
+                border-radius: 2rem;
+                transition: 0.4s ease-in-out;
+
+                &:hover{
+                    transform: scale(1.1);
+                }
+            }
+
+            h6 {
+                color: #f94144;
+                font-size: 1rem;
+              }
+        }
+    }
+}
