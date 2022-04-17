@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/graphique/static/css/main.0eb3ce07.css",
+    "main.js": "/graphique/static/js/main.c0d8773a.js",
+    "static/media/avatarImage.JPG": "/graphique/static/media/avatarImage.29d2c53ec3aaa4b0f9a2.JPG",
+    "static/media/expenseLogo5.png": "/graphique/static/media/expenseLogo5.987abc1cc8e1fae7374e.png",
+    "static/media/expenseLogo4.png": "/graphique/static/media/expenseLogo4.2bd25e04f3c4c40ebb27.png",
+    "static/media/expenseLogo2.png": "/graphique/static/media/expenseLogo2.d77d33a0c43ef2839aa8.png",
+    "static/media/expenseLogo6.png": "/graphique/static/media/expenseLogo6.3debb643bbb97747b826.png",
+    "static/media/expenseLogo7.png": "/graphique/static/media/expenseLogo7.cd6fc65828e8c691a311.png",
+    "static/media/wallet2.png": "/graphique/static/media/wallet2.183552a5edf672b2dee0.png",
+    "static/media/expenseLogo1.png": "/graphique/static/media/expenseLogo1.34e55710bd018b86e9e5.png",
+    "static/media/wallet1.png": "/graphique/static/media/wallet1.91dd5a762535b1b469c6.png",
+    "static/media/expenseLogo3.png": "/graphique/static/media/expenseLogo3.37a901982c2e28ac7449.png",
+    "index.html": "/graphique/index.html",
+    "main.0eb3ce07.css.map": "/graphique/static/css/main.0eb3ce07.css.map",
+    "main.c0d8773a.js.map": "/graphique/static/js/main.c0d8773a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0eb3ce07.css",
+    "static/js/main.c0d8773a.js"
+  ]
+}
